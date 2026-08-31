@@ -13,46 +13,46 @@ Genehmigung des Inhalts des Entwurfs der Mitteilung der Kommission – Leitlinie
 ## Inhaltsverzeichnis
 
 1. [Einleitung](#1-einleitung)
-   - 1.1 Das Gesetz über die Cyber-Resilienz
-   - 1.2 Zweck der Leitlinien
+   - [1.1 Das Gesetz über die Cyber-Resilienz](#11-das-gesetz-über-die-cyber-resilienz)
+   - [1.2 Zweck der Leitlinien](#12-zweck-der-leitlinien)
 2. [Anwendungsbereich](#2-anwendungsbereich)
-   - 2.1 Inverkehrbringen
-   - 2.2 Software als Produkt mit digitalen Elementen
-   - 2.3 Computercode
-   - 2.4 Kombination aus Hardware und Software, die ein Produkt mit digitalen Elementen bildet
-   - 2.5 Datenverbindung
-   - 2.6 Komplexe Systeme
-   - 2.7 Produkte mit digitalen Elementen, die vor dem Anwendungsbeginn des CRA entworfen wurden
+   - [2.1 Inverkehrbringen](#21-inverkehrbringen)
+   - [2.2 Software als Produkt mit digitalen Elementen](#22-software-als-produkt-mit-digitalen-elementen)
+   - [2.3 Computercode](#23-computercode)
+   - [2.4 Kombination aus Hardware und Software, die ein Produkt mit digitalen Elementen bildet](#24-kombination-aus-hardware-und-software-die-ein-produkt-mit-digitalen-elementen-bildet)
+   - [2.5 Datenverbindung](#25-datenverbindung)
+   - [2.6 Komplexe Systeme](#26-komplexe-systeme)
+   - [2.7 Produkte mit digitalen Elementen, die vor dem Anwendungsbeginn des CRA entworfen wurden](#27-produkte-mit-digitalen-elementen-die-vor-dem-anwendungsbeginn-des-cra-entworfen-wurden)
 3. [Freie und Open-Source-Software](#3-freie-und-open-source-software)
-   - 3.1 Feststellung, ob freie und Open-Source-Software in der Verantwortung einer Person liegt
-   - 3.2 Feststellung, ob freie und Open-Source-Software auf dem EU-Markt in Verkehr gebracht wird
-   - 3.3 Open-Source-Software-Verwalter (Stewards)
-   - 3.4 Mitwirkende und nachgelagerte Nutzungen
-   - 3.5 Veranschaulichende Szenarien
+   - [3.1 Feststellung, ob freie und Open-Source-Software in der Verantwortung einer Person liegt](#31-feststellung-ob-freie-und-open-source-software-in-der-verantwortung-einer-person-liegt)
+   - [3.2 Feststellung, ob freie und Open-Source-Software auf dem EU-Markt in Verkehr gebracht wird](#32-feststellung-ob-freie-und-open-source-software-auf-dem-eu-markt-in-verkehr-gebracht-wird)
+   - [3.3 Open-Source-Software-Verwalter (Stewards)](#33-open-source-software-verwalter-stewards)
+   - [3.4 Mitwirkende und nachgelagerte Nutzungen](#34-mitwirkende-und-nachgelagerte-nutzungen)
+   - [3.5 Veranschaulichende Szenarien](#35-veranschaulichende-szenarien)
 4. [Wesentliche Änderungen und Ersatzteile](#4-wesentliche-änderungen-und-ersatzteile)
-   - 4.1 Physische Reparaturen
-   - 4.2 Ersatzteile
-   - 4.3 Software-Updates als wesentliche Änderungen
-   - 4.4 Folgen einer wesentlichen Änderung
+   - [4.1 Physische Reparaturen](#41-physische-reparaturen)
+   - [4.2 Ersatzteile](#42-ersatzteile)
+   - [4.3 Software-Updates als wesentliche Änderungen](#43-software-updates-als-wesentliche-änderungen)
+   - [4.4 Folgen einer wesentlichen Änderung](#44-folgen-einer-wesentlichen-änderung)
 5. [Supportzeitraum](#5-supportzeitraum)
-   - 5.1 Wesentliche Änderungen und der Supportzeitraum
+   - [5.1 Wesentliche Änderungen und der Supportzeitraum](#51-wesentliche-änderungen-und-der-supportzeitraum)
 6. [Wichtige und kritische Produkte mit digitalen Elementen](#6-wichtige-und-kritische-produkte-mit-digitalen-elementen)
-   - 6.1 Kernfunktionalität
-   - 6.2 Konformitätsbewertung für wichtige und kritische Produkte mit digitalen Elementen
-   - 6.3 Auswirkungen auf die Konformitätsvermutung
+   - [6.1 Kernfunktionalität](#61-kernfunktionalität)
+   - [6.2 Konformitätsbewertung für wichtige und kritische Produkte mit digitalen Elementen](#62-konformitätsbewertung-für-wichtige-und-kritische-produkte-mit-digitalen-elementen)
+   - [6.3 Auswirkungen auf die Konformitätsvermutung](#63-auswirkungen-auf-die-konformitätsvermutung)
 7. [Bewertung des Cybersicherheitsrisikos und Integration von Produkten mit digitalen Elementen und Komponenten](#7-bewertung-des-cybersicherheitsrisikos-und-integration-von-produkten-mit-digitalen-elementen-und-komponenten)
-   - 7.1 Zur Bewertung und Behandlung von Cybersicherheitsrisiken
-   - 7.2 Zur Konzeption, Entwicklung und Herstellung von Produkten mit digitalen Elementen in einer Weise, die ein angemessenes Cybersicherheitsniveau auf der Grundlage der Risiken gewährleistet
-   - 7.3 Risikobewertung und Sorgfaltspflicht in Bezug auf externe Abhängigkeiten und integrierte Komponenten
-   - 7.4 Wiederverwendung von Risikobewertungen und Konformitätsdokumentation für Produktfamilien mit digitalen Elementen
+   - [7.1 Zur Bewertung und Behandlung von Cybersicherheitsrisiken](#71-zur-bewertung-und-behandlung-von-cybersicherheitsrisiken)
+   - [7.2 Zur Konzeption, Entwicklung und Herstellung von Produkten mit digitalen Elementen in einer Weise, die ein angemessenes Cybersicherheitsniveau auf der Grundlage der Risiken gewährleistet](#72-zur-konzeption-entwicklung-und-herstellung-von-produkten-mit-digitalen-elementen-in-einer-weise-die-ein-angemessenes-cybersicherheitsniveau-auf-der-grundlage-der-risiken-gewährleistet)
+   - [7.3 Risikobewertung und Sorgfaltspflicht in Bezug auf externe Abhängigkeiten und integrierte Komponenten](#73-risikobewertung-und-sorgfaltspflicht-in-bezug-auf-externe-abhängigkeiten-und-integrierte-komponenten)
+   - [7.4 Wiederverwendung von Risikobewertungen und Konformitätsdokumentation für Produktfamilien mit digitalen Elementen](#74-wiederverwendung-von-risikobewertungen-und-konformitätsdokumentation-für-produktfamilien-mit-digitalen-elementen)
 8. [Fern-Datenverarbeitung](#8-fern-datenverarbeitung)
-   - 8.1 Was gilt als Lösung zur Fern-Datenverarbeitung für ein Produkt mit digitalen Elementen?
-   - 8.2 Praktische und technische Auswirkungen von Lösungen zur Fern-Datenverarbeitung und die Inanspruchnahme von Drittlösungen
-   - 8.3 Anwendungsfälle für Lösungen zur Fern-Datenverarbeitung
+   - [8.1 Was gilt als Lösung zur Fern-Datenverarbeitung für ein Produkt mit digitalen Elementen?](#81-was-gilt-als-lösung-zur-fern-datenverarbeitung-für-ein-produkt-mit-digitalen-elementen)
+   - [8.2 Praktische und technische Auswirkungen von Lösungen zur Fern-Datenverarbeitung und die Inanspruchnahme von Drittlösungen](#82-praktische-und-technische-auswirkungen-von-lösungen-zur-fern-datenverarbeitung-und-die-inanspruchnahme-von-drittlösungen)
+   - [8.3 Anwendungsfälle für Lösungen zur Fern-Datenverarbeitung](#83-anwendungsfälle-für-lösungen-zur-fern-datenverarbeitung)
 9. [Zusätzliche Elemente](#9-zusätzliche-elemente)
-   - 9.1 Meldepflichten
-   - 9.2 Umgang mit Schwachstellen
-   - 9.3 Zusammenspiel mit anderen Rechtsvorschriften
+   - [9.1 Meldepflichten](#91-meldepflichten)
+   - [9.2 Umgang mit Schwachstellen](#92-umgang-mit-schwachstellen)
+   - [9.3 Zusammenspiel mit anderen Rechtsvorschriften](#93-zusammenspiel-mit-anderen-rechtsvorschriften)
 
 ---
 
